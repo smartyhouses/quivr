@@ -1,5 +1,16 @@
 # Changelog
 
+## 0.0.301 (2024-08-22)
+
+## What's Changed
+* feat(smtp): not enforcing tls by @StanGirard in https://github.com/QuivrHQ/quivr/pull/3067
+* feat: Update send_email.py to conditionally login with SMTP credentials by @StanGirard in https://github.com/QuivrHQ/quivr/pull/3069
+* feat: Add NEXT_PUBLIC_PROJECT_NAME environment variable by @StanGirard in https://github.com/QuivrHQ/quivr/pull/3070
+* feat: Add Azure login support by @StanGirard in https://github.com/QuivrHQ/quivr/pull/3071
+
+
+**Full Changelog**: https://github.com/QuivrHQ/quivr/compare/v0.0.300...v0.0.301
+
 ## 0.0.300 (2024-08-22)
 
 ## What's Changed
