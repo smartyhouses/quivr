@@ -1,4 +1,4 @@
-FROM python:3.11.6-slim-bullseye
+FROM dockerhub.timeweb.cloud/python:3.11.6-slim-bullseye
 
 WORKDIR /app
 
